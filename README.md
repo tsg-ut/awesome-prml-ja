@@ -8,10 +8,30 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 
 ## 本レーン
 
+### #3
+
+* [スライド](http://www.slideshare.net/syou6162/prml?type=presentation) | §2.4
+
+### #5
+
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20090805/prml) | §4.1 - §4.1.2
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20090806/discriminant) | §4.1.3 - §4.1.6
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20090807/perceptron) | §4.1.7
+
 ### #6
 
 * [スライド](http://www.slideshare.net/thorikawa/prml-chapter5) | §5.1 - §5.2
 * [スライド](http://www.slideshare.net/tsubosaka/prml-5354) | §5.3 - §5.4
+
+### #7
+
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20090930/prml) | §5.7.1
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091001/evidence) | §5.7.2
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091002/sigmoid) | §5.7.3
+
+### #9
+
+* [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091125/rvm) | §7.2 - §7.2.3
 
 ### #12
 
@@ -41,8 +61,13 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 ### #2
 
 * [スライド](http://www.slideshare.net/ooyabuy/prml-23-13355995) | §2.3
+* [スライド](http://www.slideshare.net/brownbro/prml-2-31) | §2.3.1
 * [スライド](http://www.slideshare.net/sukoyakarizumu/prml232) | §2.3.2
+* [HTML](http://tomerun.info/presen/PRMLRevenge/2_3_3/index.html) | §2.3.3
+* [HTML](http://tomerun.info/presen/PRMLRevenge/2_3_4/index.html) | §2.3.4
+* [スライド](http://www.slideshare.net/brownbro/prml-2-35) | §2.3.5
 * [スライド](http://www.slideshare.net/sleepy_yoshi/prml-236-237) | §2.3.6 - §2.3.7
+* [スライド](http://www.slideshare.net/brownbro/prml-2-38) | §2.3.8
 * [スライド](http://www.slideshare.net/marugari/prml-239241) | §2.3.9 - 2.4.1
 
 ### #3
@@ -51,6 +76,10 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/yag_ays/re-revenge-chap031) | §3.1 - §3.1.2
 * [スライド](http://www.slideshare.net/sleepy_yoshi/prml3-313315) | §3.1.3 - 3.1.5
 * [スライド](http://www.slideshare.net/risuo/prmlrevenge33) | §3.3 - §3.3.3
+
+### #4
+
+* [スライド](https://naoyat.github.io/slides/prml/4.1.7/slide.html#1) | §4.1.7
 
 ### #5
 
@@ -67,6 +96,8 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 ### #7
 
 * [復習スライド](http://www.slideshare.net/sleepy_yoshi/prml7) | §4.4 - §5.3.2
+* [スライド](https://speakerdeck.com/hassaku/prml-chapter5-hessian-matrix) | §5.4 - §5.4.6
+* [HTML](http://tomerun.info/presen/PRMLRevenge/5_5_3-5/index.html) | §5.5.3 - §5.5.5
 * [スライド](http://www.slideshare.net/RicksonJr/bbb-15673191) | §5.5.6 - §5.5.7
 
 ### #9
