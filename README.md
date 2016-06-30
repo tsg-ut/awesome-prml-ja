@@ -153,6 +153,16 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/jkfishlover/prml5-49877041) | §9.2 - §9.4
 * [スライド](http://www.slideshare.net/yukimatsubara9847/prml113114) | §11.3 - §11.4
 
+## [東京大学 都市生活学・ネットワーク行動学研究室 PRML合宿](http://bin.t.u-tokyo.ac.jp/prml2009/index.html)
+
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML01_1.ppt) | §1.1 - §1.4
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML01_2.ppt) | §1.5 - §1.6.1
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML02_1.ppt) | §2.1 - §2.3.5
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML02_2.ppt) | §2.3.6 - §2.4.5
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML03.ppt) | §3.1 - §3.5
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML04.ppt) | §4.1 - §4.3
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML05.ppt) | §5.1 - §5.7
+
 # PRML輪講
 
 * [スライド](http://www.slideshare.net/htkimura/prml-124-5131120) | §1.2.4 - §1.3
