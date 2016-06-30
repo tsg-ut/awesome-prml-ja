@@ -172,6 +172,15 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML13.ppt) | §13.1 - §13.3.4
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML14.ppt) | §14.1 - §14.4
 
+# [東京工業大学 福田研究室 勉強会資料](http://www.plan.cv.titech.ac.jp/fukudalab/post-6.html)
+
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML6%267%28Kamegai%29.pdf) | §6.1 - §7.1.4
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML8%28Shinkai%29.pdf) | §8.1 - §8.4.4
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML9%28Mizuguchi%29.pdf) | §9.1 - §9.3
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML10%28Ito%29.pdf) | §10.1 - §10.5
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML11%28Bando%29.pdf) | §11.1 - §11.6
+* [PDF](Vhttp://www.plan.cv.titech.ac.jp/fukudalab/PRML12%28Kamegai%29.pdf) | §12.1 - §12.4.2
+
 # PRML輪講
 
 * [スライド](http://www.slideshare.net/htkimura/prml-124-5131120) | §1.2.4 - §1.3
