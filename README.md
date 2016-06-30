@@ -268,6 +268,10 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/taki0313/prml-sec6), [PDF](http://www.iip.ist.i.kyoto-u.ac.jp/member/keisuke/resources/PRML_sec6.pdf) | §6.1 - §6.4
 * [スライド](http://www.slideshare.net/taki0313/prml12), [PDF](http://www.iip.ist.i.kyoto-u.ac.jp/member/keisuke/resources/PRML_sec12.pdf) | §12.1 - §12.4.3
 
+# [PRML のための数学](https://github.com/herumi/prml)
+
+* [PDF](https://github.com/herumi/prml/blob/master/main.pdf?raw=true) | §2, §4, §9, §10
+
 # 詳細不明
 
 * [スライド](http://www.slideshare.net/tetsuroito/prml1-43896906) | §1
@@ -308,6 +312,9 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 
 ## §1
 
+* [HTML](http://la.cs.tut.ac.jp/~sakaji/wiki/wiki.cgi?page=PRML+%B1%E9%BD%AC%CC%E4%C2%EA+%B2%F2%C5%FA%CE%E3+%2D+%C2%E81%BE%CF) | 演習問題第1章
+* [Google Drive](https://drive.google.com/folderview?id=0Bz9yuvZCp4qSZXB1MUpQSG9KQWs&usp=sharing) | 演習問題第1章
+* [ブログ記事](http://prml.2apes.com/category/%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94/%E7%AC%AC%EF%BC%91%E7%AB%A0/) | 演習問題第1章
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.1.pdf?raw=true) | 演習1.1
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.2.pdf?raw=true) | 演習1.2
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex1.7.JPG?raw=true) | 演習1.7
@@ -323,6 +330,10 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 
 ## §2
 
+* [HTML](http://la.cs.tut.ac.jp/~sakaji/wiki/wiki.cgi?page=PRML+%B1%E9%BD%AC%CC%E4%C2%EA+%B2%F2%C5%FA%CE%E3+%2D+%C2%E82%BE%CF) | 演習問題第2章
+* [Google Drive](https://drive.google.com/folderview?id=0Bz9yuvZCp4qSY05fWDVqOHpzSmc&usp=sharing) | 演習問題第2章
+* [ブログ記事](http://prml.2apes.com/category/%e6%bc%94%e7%bf%92%e5%95%8f%e9%a1%8c%e8%a7%a3%e7%ad%94/%e7%ac%ac%ef%bc%92%e7%ab%a0/) | 演習問題第2章
+* [HTML](http://yousack.hateblo.jp/entry/2015/04/06/184627) | 演習2.3
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.3,2.4.pdf?raw=true) | 演習2.3 - 演習2.4
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.5.pdf?raw=true) | 演習2.5
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex2.7-2.8.pdf?raw=true) | 演習2.7 - 演習2.8
@@ -351,5 +362,10 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 ## §4
 
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.1.pdf?raw=true) | 演習4.1
+* [Qiita](http://qiita.com/aisurta/items/a5427803c1dd56110fae) | 演習4.2
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.4.pdf?raw=true) | 演習4.4
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/exercise_solutions/ex4.7.pdf?raw=true) | 演習4.7
+
+## §7
+
+* [HTML](http://la.cs.tut.ac.jp/~sakaji/wiki/wiki.cgi?page=PRML+%B1%E9%BD%AC%CC%E4%C2%EA+%B2%F2%C5%FA%CE%E3+%2D+%C2%E87%BE%CF) | 演習第7章
