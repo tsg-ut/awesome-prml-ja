@@ -191,7 +191,7 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML9%28Mizuguchi%29.pdf) | §9.1 - §9.3
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML10%28Ito%29.pdf) | §10.1 - §10.5
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML11%28Bando%29.pdf) | §11.1 - §11.6
-* [PDF](Vhttp://www.plan.cv.titech.ac.jp/fukudalab/PRML12%28Kamegai%29.pdf) | §12.1 - §12.4.2
+* [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML12%28Kamegai%29.pdf) | §12.1 - §12.4.2
 
 # [ナビプラス株式会社 パターン認識と機械学習勉強会](https://nineties.github.io/prml-seminar/)
 
