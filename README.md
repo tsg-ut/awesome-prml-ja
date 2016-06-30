@@ -277,7 +277,13 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 
 ## [京大PRML輪講](https://sites.google.com/site/mlreadingkyoto/)
 
+* [PowerPoint](https://sites.google.com/site/mlreadingkyoto/schedule/PRML1.1-1.3.pptx?attredirects=0) | §1.1 - §1.3
+* [PowerPoint](https://sites.google.com/site/mlreadingkyoto/schedule/PRML1.4-1.6.pdf?attredirects=0) | §1.4 - §1.6
+* [PDF](https://sites.google.com/site/mlreadingkyoto/schedule/PRML2.3.pdf?attredirects=0) | §2.3
 * [スライド](http://www.slideshare.net/sotetsukoyamada/prml3332) | §3.1 - §3.2
+* [PowerPoint](https://sites.google.com/site/mlreadingkyoto/schedule/PRML3.3.pptx?attredirects=0) | §3.3
+* [PowerPoint](https://sites.google.com/site/mlreadingkyoto/schedule/PRML4.1-4.2.pptx?attredirects=0) | §4.1 - §4.2
+* [PowerPoint](https://sites.google.com/site/mlreadingkyoto/schedule/prml5.4-5.5.pptx?attredirects=0&d=1) | §5.4 - §5.5
 
 ## [筑波大学 PRML勉強会](http://cs-cafe.connpass.com/)
 
