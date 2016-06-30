@@ -29,13 +29,25 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091001/evidence) | §5.7.2
 * [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091002/sigmoid) | §5.7.3
 
+### #8
+
+* [スライド](http://www.slideshare.net/tsubosaka/prml-6465) | §6.4.5 - §6.4.7
+
 ### #9
 
 * [ブログ記事](http://d.hatena.ne.jp/n_shuyo/20091125/rvm) | §7.2 - §7.2.3
 
+### #10
+
+* [スライド](http://www.slideshare.net/tsubosaka/prml-reading-group-10-83) | §8.3
+
 ### #12
 
 * [スライド](http://www.slideshare.net/tsubosaka/prml-10-1) | §10.1
+
+### #14
+
+* [スライド](http://www.slideshare.net/tsubosaka/prml11-4) | §11.4
 
 ### 最終回
 
@@ -181,6 +193,32 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML11%28Bando%29.pdf) | §11.1 - §11.6
 * [PDF](Vhttp://www.plan.cv.titech.ac.jp/fukudalab/PRML12%28Kamegai%29.pdf) | §12.1 - §12.4.2
 
+# [ナビプラス株式会社 パターン認識と機械学習勉強会](https://nineties.github.io/prml-seminar/)
+
+* [YouTube](https://www.youtube.com/playlist?list=PLl1oX4Yc8CJaeKmvcKYwJMuLT8dcWzGVo)
+* [スライド](https://nineties.github.io/prml-seminar/2.html) | §1.5
+* [スライド](https://nineties.github.io/prml-seminar/3.html) | §3.1, §3.3, §11.1 - §11.2.2
+* [スライド](https://nineties.github.io/prml-seminar/4.html) | §11.3, §4.1.1 - §4.1.3
+* [スライド](https://nineties.github.io/prml-seminar/5.html) | §4.3
+* [スライド](https://nineties.github.io/prml-seminar/6.html) | §4.1.4 - §4.1.6, §4.5
+* [スライド](https://nineties.github.io/prml-seminar/7.html)
+* [スライド](https://nineties.github.io/prml-seminar/8.html)
+* [スライド](https://nineties.github.io/prml-seminar/9.html)
+* [スライド](https://nineties.github.io/prml-seminar/10.html)
+* [スライド](https://nineties.github.io/prml-seminar/11.html)
+* [スライド](https://nineties.github.io/prml-seminar/12.html)
+* [スライド](https://nineties.github.io/prml-seminar/13.html)
+* [スライド](https://nineties.github.io/prml-seminar/14.html)
+* [スライド](https://nineties.github.io/prml-seminar/15.html)
+* [スライド](https://nineties.github.io/prml-seminar/16.html)
+* [スライド](https://nineties.github.io/prml-seminar/17.html)
+* [スライド](https://nineties.github.io/prml-seminar/18.html)
+* [スライド](https://nineties.github.io/prml-seminar/19.html)
+* [スライド](https://nineties.github.io/prml-seminar/20.html)
+* [スライド](https://nineties.github.io/prml-seminar/21.html)
+* [スライド](https://nineties.github.io/prml-seminar/22.html)
+* [スライド](https://nineties.github.io/prml-seminar/23.html)
+
 # PRML輪講
 
 * [スライド](http://www.slideshare.net/htkimura/prml-124-5131120) | §1.2.4 - §1.3
@@ -216,9 +254,19 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PDF](https://github.com/daimatz/w8prml/blob/master/files/2012-12-10/prml4-3-4-5.pdf?raw=true) | §4.4 - §4.5
 * [スライド](http://www.slideshare.net/tonets/w8prml5153) | §5.1 - §5.3
 
-# 京大PRML輪講
+# [京大PRML輪講](https://sites.google.com/site/mlreadingkyoto/)
 
 * [スライド](http://www.slideshare.net/sotetsukoyamada/prml3332) | §3.1 - §3.2
+
+# [筑波大学 PRML勉強会](http://cs-cafe.connpass.com/event/12177/)
+
+* [スライド](http://www.slideshare.net/junpeitsuji/prml-study4) | §3.1.2
+
+# KMC PRML読書会
+
+* [スライド](http://www.slideshare.net/taki0313/prml-sec3), [PDF](http://www.iip.ist.i.kyoto-u.ac.jp/member/keisuke/resources/PRML_sec3_2.pdf) | §3.1 - §3.6
+* [スライド](http://www.slideshare.net/taki0313/prml-sec6), [PDF](http://www.iip.ist.i.kyoto-u.ac.jp/member/keisuke/resources/PRML_sec6.pdf) | §6.1 - §6.4
+* [スライド](http://www.slideshare.net/taki0313/prml12), [PDF](http://www.iip.ist.i.kyoto-u.ac.jp/member/keisuke/resources/PRML_sec12.pdf) | §12.1 - §12.4.3
 
 # 詳細不明
 
@@ -233,7 +281,6 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/ItaruOtomaru/prml-45271788) | §3.1 - §3.1.5
 * [スライド](http://www.slideshare.net/Y_oHr_N/prml-reading-31-32) | §3.1 - §3.2
 * [スライド](http://www.slideshare.net/penzant/prml3-48218339) | §3.1 - §3.3.3
-* [スライド](http://www.slideshare.net/taki0313/prml-sec3) | §3.1 - §3.6
 * [スライド](http://www.slideshare.net/tksakaki3ch/20131226-prml-3234) | §3.2 - §3.4
 * [スライド](http://www.slideshare.net/pecorarista/prml04) | §4
 * [スライド](http://www.slideshare.net/ShoheiOkada/prml-4-39963385) | §4.1 - §4.3
@@ -243,7 +290,6 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/t_koshikawa/prml-5-pp227pp247) | §5.1 - §5.3.3
 * [スライド](http://www.slideshare.net/kisa12012/prml5-4697969) | §5.1 - §5.4
 * [スライド](http://www.slideshare.net/tksakaki3ch/201402205) | §5.4 - §5.5.7
-* [スライド](http://www.slideshare.net/taki0313/prml-sec6) | §6.1 - §6.4
 * [スライド](http://www.slideshare.net/yukaraikemiya/6-15415589) | §6.1 - §6.4.6
 * [スライド](http://www.slideshare.net/thorikawa/prml-chapter7) | §7.1 - §7.1.1
 * [スライド](http://www.slideshare.net/tsukasafukunaga5/prml07-17444396) | §7.1 - §7.2.3
@@ -251,10 +297,10 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/takafumisakakibara75/slide-44207685) | §8.1 - §8.2.2
 * [スライド](http://www.slideshare.net/antiplastics/prml8) | §8.1 - §8.3.4
 * [スライド](http://www.slideshare.net/kisa12012/prml9-6113803) | §9
+* [スライド](http://www.slideshare.net/takao-y/20131113-em) | §9.1 - §9.4
 * [スライド](http://www.slideshare.net/takao-y/ss-28872465) | §10.1 - §10.2
-* [スライド](http://www.slideshare.net/antiplastics/prml10-40343153) | §10.1 - §10.2.1
+* [スライド](http://www.slideshare.net/antiplastics/prml10-40343153) | §10.1 - §10.2.1;
 * [スライド](http://www.slideshare.net/YukiSoma/prml-101-103) | §10.1 - §10.3
-* [スライド](http://www.slideshare.net/taki0313/prml12) | §12.1 - §12.4.3
 * [スライド](http://www.slideshare.net/tsukasafukunaga5/prml122) | §12.2 - §12.4
 * [スライド](http://www.slideshare.net/pecorarista/prml-14) | §14.1 - §14.4
 
