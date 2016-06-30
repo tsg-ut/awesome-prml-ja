@@ -153,7 +153,7 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/jkfishlover/prml5-49877041) | §9.2 - §9.4
 * [スライド](http://www.slideshare.net/yukimatsubara9847/prml113114) | §11.3 - §11.4
 
-## [東京大学 都市生活学・ネットワーク行動学研究室 PRML合宿](http://bin.t.u-tokyo.ac.jp/prml2009/index.html)
+# [東京大学 都市生活学・ネットワーク行動学研究室 PRML合宿](http://bin.t.u-tokyo.ac.jp/prml2009/index.html)
 
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML01_1.ppt) | §1.1 - §1.4
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML01_2.ppt) | §1.5 - §1.6.1
@@ -162,6 +162,15 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML03.ppt) | §3.1 - §3.5
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML04.ppt) | §4.1 - §4.3
 * [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML05.ppt) | §5.1 - §5.7
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML06.ppt) | §6.1 - §6.4
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML07.ppt) | §7.1 - §7.2
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML08.ppt) | §8.1 - §8.4.3
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML09.ppt) | §9.1 - §9.3.2
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML10.ppt) | §10.1 - §10.1.3
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML11.ppt) | §11.1 - §11.4
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML12.ppt) | §12.1 - §12.4.3
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML13.ppt) | §13.1 - §13.3.4
+* [PowerPoint](http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML14.ppt) | §14.1 - §14.4
 
 # PRML輪講
 
