@@ -113,8 +113,13 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/hiromasaohashi/prml1-29488268) | §1.1 - §1.2
 * [スライド](http://www.slideshare.net/hiromasaohashi/prml23-30172404) | §1.2.1 - §1.4
 * [スライド](http://www.slideshare.net/hiromasaohashi/prml4) | §1.5 - §1.6.1
+* [スライド](http://www.slideshare.net/florets1/osaka-prml-reading23-34086825) | §2.3
+* [スライド](http://www.slideshare.net/florets1/osaka-prml-reading2312) | §2.3.1 - §2.3.2
+* [スライド](http://www.slideshare.net/skyyukifujiwara/140525-prml-23) | §2.3.3 - §2.3.6
+* [スライド](http://www.slideshare.net/florets1/osaka-prml-reading32331) | §3.2 - §3.3.1
 * [スライド](http://www.slideshare.net/yukimatsubara9847/prml35-40730590) | §3.5
 * [スライド](http://www.slideshare.net/yukimatsubara9847/prml44) | §4.4 - §4.5
+* [スライド](http://www.slideshare.net/jkfishlover/prml5-49877041) | §9.2 - §9.4
 * [スライド](http://www.slideshare.net/yukimatsubara9847/prml113114) | §11.3 - §11.4
 
 # PRML輪講
@@ -164,6 +169,8 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/Y_oHr_N/prml-reading-11-12) | §1.1 - §1.2.6
 * [スライド](http://www.slideshare.net/nagayoshi3/2-23-8464248) | §2.3
 * [スライド](http://www.slideshare.net/YukiSoma/prml-23-51860334) | §2.3 - §2.3.9
+* [スライド](http://www.slideshare.net/takafumisakakibara75/slide-41820194) | §2.3.1 - §2.3.7
+* [スライド](http://www.slideshare.net/jkfishlover/prml235) | §2.3.5 - §2.5.2
 * [スライド](http://www.slideshare.net/ItaruOtomaru/prml-45271788) | §3.1 - §3.1.5
 * [スライド](http://www.slideshare.net/Y_oHr_N/prml-reading-31-32) | §3.1 - §3.2
 * [スライド](http://www.slideshare.net/penzant/prml3-48218339) | §3.1 - §3.3.3
@@ -182,6 +189,7 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/thorikawa/prml-chapter7) | §7.1 - §7.1.1
 * [スライド](http://www.slideshare.net/tsukasafukunaga5/prml07-17444396) | §7.1 - §7.2.3
 * [スライド](http://www.slideshare.net/K5_sem/prml7-2) | §7.2.1
+* [スライド](http://www.slideshare.net/takafumisakakibara75/slide-44207685) | §8.1 - §8.2.2
 * [スライド](http://www.slideshare.net/antiplastics/prml8) | §8.1 - §8.3.4
 * [スライド](http://www.slideshare.net/kisa12012/prml9-6113803) | §9
 * [スライド](http://www.slideshare.net/takao-y/ss-28872465) | §10.1 - §10.2
