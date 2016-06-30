@@ -279,9 +279,12 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 
 * [スライド](http://www.slideshare.net/sotetsukoyamada/prml3332) | §3.1 - §3.2
 
-## [筑波大学 PRML勉強会](http://cs-cafe.connpass.com/event/12177/)
+## [筑波大学 PRML勉強会](http://cs-cafe.connpass.com/)
 
+* [スライド](https://speakerdeck.com/hurutoriya/prml-seminar-2-go-to-introduction-in-machine-learning) | §1.1 - §1.6.1
+* [スライド](http://www.slideshare.net/jkfishlover/prml235) | §2.3.5 - §2.5.2
 * [スライド](http://www.slideshare.net/junpeitsuji/prml-study4) | §3.1.2
+* [スライド](http://www.slideshare.net/jkfishlover/prml5-49877041) | §9.2 - §9.4
 
 ## KMC PRML読書会
 
@@ -302,7 +305,6 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [スライド](http://www.slideshare.net/nagayoshi3/2-23-8464248) | §2.3
 * [スライド](http://www.slideshare.net/YukiSoma/prml-23-51860334) | §2.3 - §2.3.9
 * [スライド](http://www.slideshare.net/takafumisakakibara75/slide-41820194) | §2.3.1 - §2.3.7
-* [スライド](http://www.slideshare.net/jkfishlover/prml235) | §2.3.5 - §2.5.2
 * [スライド](http://www.slideshare.net/ItaruOtomaru/prml-45271788) | §3.1 - §3.1.5
 * [スライド](http://www.slideshare.net/Y_oHr_N/prml-reading-31-32) | §3.1 - §3.2
 * [スライド](http://www.slideshare.net/penzant/prml3-48218339) | §3.1 - §3.3.3
