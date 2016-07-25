@@ -13,6 +13,7 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [大阪PRML読書会](#大阪prml読書会)
 * [東京大学 都市生活学・ネットワーク行動学研究室 PRML合宿](#東京大学-都市生活学ネットワーク行動学研究室-prml合宿)
 * [東京工業大学 福田研究室 勉強会資料](#東京工業大学-福田研究室-勉強会資料)
+* [TSG 2016年度機械学習分科会](#TSG-2016年度機械学習分科会)
 * [ナビプラス株式会社 パターン認識と機械学習勉強会](#ナビプラス株式会社-パターン認識と機械学習勉強会)
 * [PRML輪講](#prml輪講)
 * [東北大学 研究室勉強会](#東北大学-研究室勉強会)
@@ -213,6 +214,11 @@ PRMLに関する勉強会・読書会などの日本語の資料をまとめた�
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML10%28Ito%29.pdf) | §10.1 - §10.5
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML11%28Bando%29.pdf) | §11.1 - §11.6
 * [PDF](http://www.plan.cv.titech.ac.jp/fukudalab/PRML12%28Kamegai%29.pdf) | §12.1 - §12.4.2
+ 
+## TSG 2016年度機械学習分科会
+
+* [ブログ記事](http://satos.hatenablog.jp/entry/2016/06/27/183008) | §8.4
+* [Hackpad](https://hackpad.com/TSG-9.1-9.2.2-hFCtNmUXphm) | §9.1 - §9.2.2
 
 ## [ナビプラス株式会社 パターン認識と機械学習勉強会](https://nineties.github.io/prml-seminar/)
 
